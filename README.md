@@ -1,3 +1,5 @@
+## httx
+a simple recon tool combining assetfinder, httprobe, and httpx
 ## Usage
 ```
 ./httx.sh domain.com
